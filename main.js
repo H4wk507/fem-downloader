@@ -14,7 +14,7 @@ const headers = {
 const videoQualities = {
   2160: "index_2160p_Q10_20mbps",
   1440: "index_1440p_Q10_9mbps",
-  1080: "index_1080_Q8_7mbps",
+  1080: "index_1080_Q10_7mbps",
   720: "index_720_Q8_5mbps",
   360: "index_360_Q8_2mbps",
 };
